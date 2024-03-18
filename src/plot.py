@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-IMG_NAME = "imag/plot.pdf"
+IMG_NAME = "imag/fft.pdf"
 
 def read_data_from_file(filename):
 	data = []
